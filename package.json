@@ -19,7 +19,7 @@
       }
     ]
   },
-  "icon": "images/eyecooler-icon.svg",
+  "icon": "images/eyecooler-icon.png",
   "repository": {
     "type": "git",
     "url": "git://github.com/devendew/eyecooler.git"
