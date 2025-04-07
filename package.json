@@ -3,7 +3,7 @@
   "displayName": "Eye Cooler Theme",
   "publisher": "thedevtechub",
   "description": "Perfect for those who live in their code all day.",
-  "version": "0.3.5",
+  "version": "0.3.6",
   "engines": {
     "vscode": "^1.75.0"
   },
