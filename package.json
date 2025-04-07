@@ -5,7 +5,7 @@
   "description": "A theme for longer coders.",
   "version": "0.3.3",
   "engines": {
-    "vscode": "^1.99.0"
+    "vscode": "^1.75.0"
   },
   "categories": [
     "Themes"
