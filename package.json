@@ -1,8 +1,8 @@
 {
   "name": "eyecooler",
-  "displayName": "Eye Cooler",
+  "displayName": "Eye Cooler Theme",
   "publisher": "thedevtechub",
-  "description": "A theme for longer coders.",
+  "description": "Perfect for those who live in their code all day.",
   "version": "0.3.4",
   "engines": {
     "vscode": "^1.75.0"
