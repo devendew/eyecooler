@@ -1,6 +1,7 @@
 {
   "name": "eyecooler",
-  "displayName": "EyeCooler",
+  "displayName": "Eye Cooler",
+  "publisher": "thedevtechub",
   "description": "A theme for longer coders.",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +18,10 @@
         "path": "./themes/EyeCooler-color-theme.json"
       }
     ]
+  },
+  "icon": "images/eyecooler-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devendew/eyecooler.git"
   }
 }
