@@ -1,37 +1,37 @@
-# This is a basic workflow to help you get started with Actions
+# # This is a basic workflow to help you get started with Actions
 
-name: Deploy the Eye Cooler Theme on VS Code Marketplace
+# name: Deploy the Eye Cooler Theme on VS Code Marketplace
 
-# Controls when the workflow will run
-on:
-  # Triggers the workflow on push or pull request events but only for the "master" branch
-  push:
-    branches: ["main"]
+# # Controls when the workflow will run
+# on:
+#   # Triggers the workflow on push or pull request events but only for the "master" branch
+#   push:
+#     branches: ["main"]
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+#   # Allows you to run this workflow manually from the Actions tab
+#   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    strategy:
-      matrix:
-        os: [macos-latest, ubuntu-latest, windows-latest]
+# # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# jobs:
+#   # This workflow contains a single job called "build"
+#   build:
+#     strategy:
+#       matrix:
+#         os: [macos-latest, ubuntu-latest, windows-latest]
 
-    # The type of runner that the job will run on
-    runs-on: ${{ matrix.os }}
+#     # The type of runner that the job will run on
+#     runs-on: ${{ matrix.os }}
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Install Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18.x
-      - run: npm install
-      - run: xvfb-run -a npm test
-        if: runner.os == 'Linux'
-      - run: npm test
-        if: runner.os != 'Linux'
+#     # Steps represent a sequence of tasks that will be executed as part of the job
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+#       - name: Install Node.js
+#         uses: actions/setup-node@v4
+#         with:
+#           node-version: 18.x
+#       - run: npm install
+#       - run: xvfb-run -a npm test
+#         if: runner.os == 'Linux'
+#       - run: npm test
+#         if: runner.os != 'Linux'
