@@ -29,6 +29,7 @@
     "standard-version": "^9.5.0"
   },
   "scripts": {
-    "release": "standard-version"
+    "release": "standard-version",
+    "deploy": "vsce publish --yarn"
   }
 }
