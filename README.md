@@ -1,16 +1,24 @@
-# eyecooler README
+# TheDevTecHub - Eye Cooler  
 
-## Working with Markdown
+*A Visual Studio Code theme crafted for comfort, clarity, and coding marathons.*
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Introducing **Eye Cooler**, a visually elegant and soothing theme developed by **TheDevTecHub**, thoughtfully created for developers who spend long hours in front of their screens. Our goal is simple yet essential i.e. to offer a beautiful and professional coding environment that not only looks great but also takes care of your eyes.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+We’ve carefully designed a balanced color palette that minimizes eye strain while preserving crisp syntax highlighting, allowing you to stay focused and productive without fatigue. Whether you're debugging late into the night or writing code at dawn, **Eye Cooler** keeps your vision calm and your workflow seamless.
 
-## For more information
+## Why Eye Cooler?
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- 🌙 Gentle, eye-friendly tones for prolonged coding sessions  
+- 🎨 Sleek and modern design that enhances visual appeal  
+- 👁️ Optimized for readability and reduced visual fatigue  
+- ⚡ Boosts productivity without compromising on comfort or elegance  
 
-**Enjoy!**
+---
+
+**Code more. Strain less.**  
+With Eye Cooler, enjoy a relaxed and visually refreshing coding experience — because your eyes deserve it.
+
+---
+
+**Developed by:** [Devendra Dewangan](https://github.com/devendew)  
+*Follow for more themes, tools, and open-source goodness!*
