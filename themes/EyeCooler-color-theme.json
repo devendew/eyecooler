@@ -32,7 +32,6 @@
     "input.foreground": "#eeffff",
     "input.placeholderForeground": "#f3d2b3",
     "input.border": "#ff7b00",
-    "inputOption.activeBorder": "#ff7b00",
     "inputOption.activeBackground": "#ff7b00",
     "inputOption.activeBorder": "#ff7b00",
     "inputValidation.errorBackground": "#ff002b",
@@ -43,14 +42,14 @@
     "inputValidation.warningBorder": "#ff7b00",
 
     // Editor
-    "editorCursor.foreground": "#ff7b00",
+    "editorCursor.foreground": "#ffffff",
     "editor.lineHighlightBackground": "#000000",
-    "editor.lineHighlightBorder": "#000000",
-    "editor.selectionBackground": "#ff7b00",
+    "editor.lineHighlightBorder": "#ff7b00",
+    "editor.selectionBackground": "#795129",
     "editor.selectionForeground": "#000000",
     "editor.selectionHighlightBackground": "#ff7b00",
     "editor.selectionHighlightBorder": "#ff7b00",
-    "editor.wordHighlightBackground": "#ff7b00",
+    "editor.wordHighlightBackground": "#795129",
     "editor.wordHighlightBorder": "#ff7b00",
     "editor.findMatchBackground": "#ff7b00",
     "editor.findMatchHighlightBackground": "#ff7b00",
@@ -58,8 +57,8 @@
     "editor.findMatchBorder": "#ff7b00",
     "editor.findMatchHighlightBorder": "#ff7b00",
     "editor.findRangeHighlightBorder": "#ff7b00",
-    "editor.hoverHighlightBackground": "#ff7b00",
-    "editor.hoverHighlightBorder": "#ff7b00",
+    "editor.hoverHighlightBackground": "#795129",
+    // "editor.hoverHighlightBorder": "#ff7b00",
     "editor.wordHighlightStrongBackground": "#ff7b00",
     "editor.wordHighlightStrongBorder": "#ff7b00",
     "editorBracketMatch.background": "#ff7b00",
@@ -112,7 +111,7 @@
     "activityBar.foreground": "#FFFFFF", // Icon and text color
     "activityBar.inactiveForeground": "#888888", // Inactive icons
     "activityBar.activeBorder": "#ff7b00", // Border under active icon
-    "activityBar.border": "#333333", // Border around activity bar
+    "activityBar.border": "#ff7b00", // Border around activity bar
     "activityBarBadge.background": "#ff7b00", // Background of badges (e.g., update count)
     "activityBarBadge.foreground": "#000000", // Text color inside badge
 
@@ -124,7 +123,7 @@
     "sideBarSectionHeader.foreground": "#000000",
     "scrollbarSlider.background": "#55555588",
     "scrollbarSlider.hoverBackground": "#777777AA",
-    "sideBar.border": "#333333",
+    "sideBar.border": "#ff7b00",
 
     // Links
     "textLink.foreground": "#ff7b00", // Normal link color

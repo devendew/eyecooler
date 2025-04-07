@@ -23,5 +23,12 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/devendew/eyecooler.git"
+  },
+  "changelog": "https://github.com/devendew/eyecooler/blob/master/CHANGELOG.mdCHANGELOG.md",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "scripts": {
+    "release": "standard-version"
   }
 }
