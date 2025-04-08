@@ -4,13 +4,7 @@
 
 ### Orange Black Theme
 
-![Theme Preview](https://github.com/devendew/eyecooler/blob/master/images/screenshot.png)
-
-<!-- <p align="center">
-  <img src="images/screenshot.png" alt="Theme in action" width="60%"/>
-  <br/>
-  <i>Figure: Code editor with sidebar and terminal styling</i>
-</p> -->
+![Orange Black Theme Preview](media/screenshot.png)
 
 Introducing **Eye Cooler**, a visually elegant and soothing theme developed by **TheDevTecHub**, thoughtfully created for developers who spend long hours in front of their screens. Our goal is simple yet essential i.e. to offer a beautiful and professional coding environment that not only looks great but also takes care of your eyes.
 

@@ -3,7 +3,7 @@
   "displayName": "Eye Cooler Dark Theme",
   "publisher": "thedevtechub",
   "description": "Perfect for those who live in their code all day.",
-  "version": "0.3.9",
+  "version": "0.3.11",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -35,7 +35,7 @@
   },
   "screenshots": [
     {
-      "path": "images/screenshot.png"
+      "path": "media/screenshot.png"
     }
   ]
 }

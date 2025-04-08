@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.3.11
+
+### Patch Changes
+
+- Fixed the sample image issue in README.md
+
+## 0.3.10
+
+### Patch Changes
+
+- Fixed image loading issue in README.md
+
 ## 0.3.9
 
 ### Patch Changes
