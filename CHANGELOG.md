@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.3.9
+
+### Patch Changes
+
+- Added sample image to README.md
+
+## 0.3.8
+
+### Patch Changes
+
+- Fixed icon color issue.
+
 ## 0.3.7
 
 ### Patch Changes

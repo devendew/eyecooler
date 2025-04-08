@@ -84,7 +84,7 @@
     // Status Bar
     "statusBar.background": "#ff7b00", // background color of status bar (default blue)
     "statusBar.foreground": "#000000", // text color in status bar
-    "statusBar.noFolderBackground": "#68217A", // color when no folder is open
+    "statusBar.noFolderBackground": "#ff7b00", // color when no folder is open
     "statusBar.debuggingBackground": "#CC6633", // color while debugging
     "statusBarItem.remoteBackground": "#693709", // Background of remote connection item
     "statusBarItem.remoteForeground": "#ffffff", // Text/icon color in remote section
