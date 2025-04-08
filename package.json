@@ -3,7 +3,7 @@
   "displayName": "Eye Cooler Dark Theme",
   "publisher": "thedevtechub",
   "description": "Perfect for those who live in their code all day.",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -26,6 +26,7 @@
   },
   "changelog": "https://github.com/devendew/eyecooler/blob/master/CHANGELOG.mdCHANGELOG.md",
   "devDependencies": {
+    "@changesets/cli": "^2.28.1",
     "standard-version": "^9.5.0"
   },
   "scripts": {
