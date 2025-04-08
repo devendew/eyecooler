@@ -11,6 +11,7 @@
     "titleBar.activeForeground": "#FFFFFF", // Text/icon color of title bar (when focused)
     "titleBar.inactiveBackground": "#000000", // Title bar when window is unfocused
     "titleBar.inactiveForeground": "#AAAAAA", // Text/icon color when unfocused
+    "titleBar.border": "#ff7b00",
 
     // Selection
     "focusBorder": "#ff7b00", // Transparent border when focused
@@ -85,6 +86,8 @@
     "statusBar.foreground": "#000000", // text color in status bar
     "statusBar.noFolderBackground": "#68217A", // color when no folder is open
     "statusBar.debuggingBackground": "#CC6633", // color while debugging
+    "statusBarItem.remoteBackground": "#693709", // Background of remote connection item
+    "statusBarItem.remoteForeground": "#ffffff", // Text/icon color in remote section
 
     // List
     "list.activeSelectionBackground": "#ff7b00", // Background of selected item (active window)
@@ -103,8 +106,28 @@
     // "terminal.selectionBackground": "#555555", // Selection highlight color
     "terminal.selectionBackground": "#ff7b00",
     "terminal.inactiveSelectionBackground": "#000000",
-    // "terminal.ansiRed": "#FF5555", // Often used for root
-    // "terminal.ansiGreen": "#aaafab", // Common for user
+    "terminal.border": "#ff7b00",
+    "panel.border": "#ff7b00",
+    "panelTitle.activeBorder": "#ff7b00",
+    // "panelTitle.activeForeground": "#ff7b00",
+
+    // Terminal ANSI Colors (output colors)
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#FF5F56",
+    "terminal.ansiGreen": "#27C93F",
+    "terminal.ansiYellow": "#FFBD2E",
+    "terminal.ansiBlue": "#1E90FF",
+    "terminal.ansiMagenta": "#FF00FF",
+    "terminal.ansiCyan": "#00FFFF",
+    "terminal.ansiWhite": "#FFFFFF",
+    "terminal.ansiBrightBlack": "#555555",
+    "terminal.ansiBrightRed": "#FF6E67",
+    "terminal.ansiBrightGreen": "#5FFA68",
+    "terminal.ansiBrightYellow": "#FFF75E",
+    "terminal.ansiBrightBlue": "#6A9FFF",
+    "terminal.ansiBrightMagenta": "#FF9FFF",
+    "terminal.ansiBrightCyan": "#9FFFFF",
+    "terminal.ansiBrightWhite": "#FFFFFF",
 
     // Activity Bar
     "activityBar.background": "#000000", // Background color
@@ -121,9 +144,11 @@
     "sideBarTitle.foreground": "#FFFFFF", // Title text (e.g., "EXTENSIONS")
     "sideBarSectionHeader.background": "#ff7b00", // Section header (e.g., "INSTALLED")
     "sideBarSectionHeader.foreground": "#000000",
+    "sideBarSectionHeader.border": "#ff7b00",
     "scrollbarSlider.background": "#55555588",
     "scrollbarSlider.hoverBackground": "#777777AA",
     "sideBar.border": "#ff7b00",
+    "icon.foreground": "#000000",
 
     // Links
     "textLink.foreground": "#ff7b00", // Normal link color
