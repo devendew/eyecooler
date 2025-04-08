@@ -148,7 +148,7 @@
     "scrollbarSlider.background": "#55555588",
     "scrollbarSlider.hoverBackground": "#777777AA",
     "sideBar.border": "#ff7b00",
-    "icon.foreground": "#000000",
+    "icon.foreground": "#ffffff",
 
     // Links
     "textLink.foreground": "#ff7b00", // Normal link color
