@@ -4,7 +4,7 @@
 
 ### Orange Black Theme
 
-![Theme Preview](images/screenshot.png)
+![Theme Preview](https://github.com/devendew/eyecooler/blob/master/images/screenshot.png)
 
 <!-- <p align="center">
   <img src="images/screenshot.png" alt="Theme in action" width="60%"/>
