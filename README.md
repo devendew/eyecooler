@@ -23,6 +23,6 @@ We’ve carefully designed a balanced color palette that minimizes eye strain wh
 With Eye Cooler, enjoy a relaxed and visually refreshing coding experience — because your eyes deserve it.
 
 ---
-**Organization:** [TheDevTecHub](https://github.com/thedevtechub)
+**Organization:** [TheDevTecHub](https://github.com/thedevtechub)  
 **Developed by:** [Devendra Dewangan](https://github.com/devendew)  
 *Follow for more themes, tools, and open-source goodness!*
