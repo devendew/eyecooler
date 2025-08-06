@@ -7,6 +7,8 @@ on:
 
 jobs:
   generate-changelog:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
