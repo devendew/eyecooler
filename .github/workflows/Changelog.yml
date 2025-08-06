@@ -1,0 +1,34 @@
+name: Generate Changelog
+
+on:
+  push:
+    tags:
+      - 'v*'  # triggers on version tag like v1.0.0
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+
+      - name: Install changelog generator
+        run: gem install github_changelog_generator
+
+      - name: Generate CHANGELOG.md
+        run: |
+          github_changelog_generator --user ${{ github.repository_owner }} --project ${{ github.event.repository.name }} -o CHANGELOG.md
+
+      - name: Commit and push changelog
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add CHANGELOG.md
+          git commit -m "Update CHANGELOG.md"
+          git push origin HEAD:master
